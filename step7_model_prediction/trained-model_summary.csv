@@ -1,0 +1,6 @@
+Metric,Value
+R_squared(training),0.9903900465503471
+Adj_R_squared,0.9903702092510087
+F_stat,49925.64913486291
+F_pvalue,0.0
+Num_Predictors,58.0

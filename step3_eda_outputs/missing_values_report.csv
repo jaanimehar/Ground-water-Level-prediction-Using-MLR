@@ -1,0 +1,176 @@
+,0
+date,0
+village,0
+stationName,0
+dataValue,0
+id,0
+subdistric,0
+district,0
+stationCode,0
+latitude,0
+longitude,0
+wellDepth,0
+Value_atm_pre,0
+Value_Evp,0
+Value_Rain,0
+Value_Temp,0
+Value_Sm1,0
+Value_Sm2,0
+Value_Sm3,0
+Value_Sm4,0
+village.1,0
+subdistric.1,0
+district.1,0
+total_popu,0
+avg_househ,0
+total_population_count,0
+tapwater_t,0
+tapwater_u,0
+covered_we,0
+tubewell_b,0
+tube_wells,0
+tube_wel_1,0
+spring_sta,0
+spring_fun,0
+permanent_,0
+current_fa,0
+area_irrig,0
+canals_are,0
+wells_tube,0
+tanks_lake,0
+waterfall_,0
+shape_leng,0
+shape_area,0
+stationCode.1,0
+stationName.1,0
+latitude.1,0
+longitude.1,0
+wellDepth.1,0
+Rainfall (mm)_2023,0
+Rainfall (mm)_2024,0
+Rainfall (mm)_2025,0
+Recharge Worthy Area (ha)_2023_2024_2025,0
+Rainfall Recharge_2023,0
+Rainfall Recharge_2024,0
+Rainfall Recharge_2025,0
+Ground Water Irrigation_2023,0
+Ground Water Irrigation_2024,0
+Ground Water Irrigation_2025,0
+Tanks and Ponds_2023,0
+Tanks and Ponds_2024,0
+Tanks and Ponds_2025,0
+Water Conservation Structure_2023,0
+Water Conservation Structure_2024,0
+Water Conservation Structure_2025,0
+Pipelines_2023_2024_2025,0
+Annual Ground water Recharge (ham)_2023,0
+Annual Ground water Recharge (ham)_2024,0
+Annual Ground water Recharge (ham)_2025,0
+Environmental Flows (ham)_2023,0
+Environmental Flows (ham)_2024,0
+Environmental Flows (ham)_2025,0
+Annual Extractable Ground water Resource (ham)_2023,0
+Annual Extractable Ground water Resource (ham)_2024,0
+Annual Extractable Ground water Resource (ham)_2025,0
+Domestic_Ground Water Extraction for all uses (ha.m)EXTR_2023,0
+Domestic_Ground Water Extraction for all uses (ha.m)EXTR_2024,0
+Domestic_Ground Water Extraction for all uses (ha.m)EXTR_2025,0
+Industrial_Ground Water Extraction for all uses (ha.m)EXTR_2023,0
+Industrial_Ground Water Extraction for all uses (ha.m)EXTR_2024,0
+Industrial_Ground Water Extraction for all uses (ha.m)EXTR_2025,0
+Irrigation_Ground Water Extraction for all uses (ha.m)EXTR_2023,0
+Irrigation_Ground Water Extraction for all uses (ha.m)EXTR_2024,0
+Irrigation_Ground Water Extraction for all uses (ha.m)EXTR_2025,0
+Stage of Ground Water Extraction (%)_2023,0
+Stage of Ground Water Extraction (%)_2024,0
+Stage of Ground Water Extraction (%)_2025,0
+Categorization of Assessment Unit_2023,0
+Categorization of Assessment Unit_2024,0
+Categorization of Assessment Unit_2025,0
+Pre Monsoon of GW Trend_2023,0
+Pre Monsoon of GW Trend_2024,0
+Pre Monsoon of GW Trend_2025,0
+Post Monsoon of GW Trend_2023,0
+Post Monsoon of GW Trend_2024,0
+Post Monsoon of GW Trend_2025,0
+Allocation of Ground Water Resource for Domestic Utilisation for projected year ,0
+Allocation of Ground Water Resource for Domestic Utilisation for projected yea.1,0
+Allocation of Ground Water Resource for Domestic Utilisation for projected yea.2,0
+Net Annual Ground Water Availability for Future Use (ham)_2023,0
+Net Annual Ground Water Availability for Future Use (ham)_2024,0
+Net Annual Ground Water Availability for Future Use (ham)_2025,0
+Major Parameter Present_QUALITY_2023_2024_2025,0
+Total Ground Water Availability in Unconfined Aquifier (ham)_FRESH_2023,0
+Total Ground Water Availability in Unconfined Aquifier (ham)_FRESH_2024,0
+Total Ground Water Availability in Unconfined Aquifier (ham)_FRESH_2025,0
+Total Ground Water Availability in the area (ham)Fresh_2023,0
+Total Ground Water Availability in the area (ham)Fresh_2024,0
+Total Ground Water Availability in the area (ham)Fresh_2025,0
+sand_0-5cm_mean,0
+sand_5-15cm_mean,0
+sand_15-30cm_mean,0
+sand_30-60cm_mean,0
+sand_60-100cm_mean,0
+sand_100-200cm_mean,0
+silt_0-5cm_mean,0
+silt_5-15cm_mean,0
+silt_15-30cm_mean,0
+silt_30-60cm_mean,0
+silt_60-100cm_mean,0
+silt_100-200cm_mean,0
+clay_0-5cm_mean,0
+clay_5-15cm_mean,0
+clay_15-30cm_mean,0
+clay_30-60cm_mean,0
+clay_60-100cm_mean,0
+clay_100-200cm_mean,0
+ocd_0-5cm_mean,0
+ocd_5-15cm_mean,0
+ocd_15-30cm_mean,0
+ocd_30-60cm_mean,0
+ocd_60-100cm_mean,0
+ocd_100-200cm_mean,0
+phh2o_0-5cm_mean,0
+phh2o_5-15cm_mean,0
+phh2o_15-30cm_mean,0
+phh2o_30-60cm_mean,0
+phh2o_60-100cm_mean,0
+phh2o_100-200cm_mean,0
+bdod_0-5cm_mean,0
+bdod_5-15cm_mean,0
+bdod_15-30cm_mean,0
+bdod_30-60cm_mean,0
+bdod_60-100cm_mean,0
+bdod_100-200cm_mean,0
+cec_0-5cm_mean,0
+cec_5-15cm_mean,0
+cec_15-30cm_mean,0
+cec_30-60cm_mean,0
+cec_60-100cm_mean,0
+cec_100-200cm_mean,0
+cfvo_0-5cm_mean,0
+cfvo_5-15cm_mean,0
+cfvo_15-30cm_mean,0
+cfvo_30-60cm_mean,0
+cfvo_60-100cm_mean,0
+cfvo_100-200cm_mean,0
+nitrogen_0-5cm_mean,0
+nitrogen_5-15cm_mean,0
+nitrogen_15-30cm_mean,0
+nitrogen_30-60cm_mean,0
+nitrogen_60-100cm_mean,0
+nitrogen_100-200cm_mean,0
+soc_0-5cm_mean,0
+soc_5-15cm_mean,0
+soc_15-30cm_mean,0
+soc_30-60cm_mean,0
+soc_60-100cm_mean,0
+soc_100-200cm_mean,0
+HISTO_10,0
+HISTO_20,0
+HISTO_30,0
+HISTO_40,0
+HISTO_50,0
+HISTO_60,0
+HISTO_80,0
+_count,0

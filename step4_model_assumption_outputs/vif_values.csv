@@ -1,0 +1,175 @@
+Feature,VIF
+village,inf
+id,inf
+stationName,inf
+subdistric,inf
+district,inf
+wellDepth,inf
+stationCode,inf
+total_population_count,inf
+tapwater_t,inf
+tapwater_u,inf
+village.1,inf
+district.1,inf
+subdistric.1,inf
+tanks_lake,inf
+waterfall_,inf
+shape_leng,inf
+shape_area,inf
+stationCode.1,inf
+area_irrig,inf
+avg_househ,inf
+total_popu,inf
+tubewell_b,inf
+covered_we,inf
+tube_wells,inf
+current_fa,inf
+permanent_,inf
+spring_fun,inf
+spring_sta,inf
+tube_wel_1,inf
+stationName.1,inf
+wells_tube,inf
+canals_are,inf
+Water Conservation Structure_2023,inf
+Tanks and Ponds_2023,inf
+Ground Water Irrigation_2025,inf
+Ground Water Irrigation_2024,inf
+Tanks and Ponds_2024,inf
+Ground Water Irrigation_2023,inf
+Rainfall Recharge_2025,inf
+Rainfall Recharge_2023,inf
+Rainfall Recharge_2024,inf
+Recharge Worthy Area (ha)_2023_2024_2025,inf
+Rainfall (mm)_2024,inf
+Rainfall (mm)_2023,inf
+wellDepth.1,inf
+cec_0-5cm_mean,inf
+sand_100-200cm_mean,inf
+silt_0-5cm_mean,inf
+silt_5-15cm_mean,inf
+silt_15-30cm_mean,inf
+silt_30-60cm_mean,inf
+silt_60-100cm_mean,inf
+silt_100-200cm_mean,inf
+clay_0-5cm_mean,inf
+clay_5-15cm_mean,inf
+clay_15-30cm_mean,inf
+clay_30-60cm_mean,inf
+clay_60-100cm_mean,inf
+Tanks and Ponds_2025,inf
+Water Conservation Structure_2024,inf
+Water Conservation Structure_2025,inf
+Annual Extractable Ground water Resource (ham)_2023,inf
+Pipelines_2023_2024_2025,inf
+Annual Ground water Recharge (ham)_2023,inf
+Annual Ground water Recharge (ham)_2024,inf
+Annual Ground water Recharge (ham)_2025,inf
+Environmental Flows (ham)_2023,inf
+Environmental Flows (ham)_2024,inf
+Environmental Flows (ham)_2025,inf
+Domestic_Ground Water Extraction for all uses (ha.m)EXTR_2024,inf
+Annual Extractable Ground water Resource (ham)_2024,inf
+Annual Extractable Ground water Resource (ham)_2025,inf
+Domestic_Ground Water Extraction for all uses (ha.m)EXTR_2023,inf
+Industrial_Ground Water Extraction for all uses (ha.m)EXTR_2023,inf
+Domestic_Ground Water Extraction for all uses (ha.m)EXTR_2025,inf
+Industrial_Ground Water Extraction for all uses (ha.m)EXTR_2024,inf
+Industrial_Ground Water Extraction for all uses (ha.m)EXTR_2025,inf
+Allocation of Ground Water Resource for Domestic Utilisation for projected year ,inf
+Irrigation_Ground Water Extraction for all uses (ha.m)EXTR_2023,inf
+Irrigation_Ground Water Extraction for all uses (ha.m)EXTR_2024,inf
+Irrigation_Ground Water Extraction for all uses (ha.m)EXTR_2025,inf
+Stage of Ground Water Extraction (%)_2023,inf
+Stage of Ground Water Extraction (%)_2024,inf
+Stage of Ground Water Extraction (%)_2025,inf
+Categorization of Assessment Unit_2023,inf
+Categorization of Assessment Unit_2024,inf
+Categorization of Assessment Unit_2025,inf
+Pre Monsoon of GW Trend_2023,inf
+Pre Monsoon of GW Trend_2024,inf
+Pre Monsoon of GW Trend_2025,inf
+Post Monsoon of GW Trend_2023,inf
+Post Monsoon of GW Trend_2024,inf
+Post Monsoon of GW Trend_2025,inf
+Total Ground Water Availability in Unconfined Aquifier (ham)_FRESH_2025,inf
+Allocation of Ground Water Resource for Domestic Utilisation for projected yea.1,inf
+Allocation of Ground Water Resource for Domestic Utilisation for projected yea.2,inf
+Net Annual Ground Water Availability for Future Use (ham)_2023,inf
+Net Annual Ground Water Availability for Future Use (ham)_2024,inf
+Net Annual Ground Water Availability for Future Use (ham)_2025,inf
+Total Ground Water Availability in Unconfined Aquifier (ham)_FRESH_2023,inf
+Total Ground Water Availability in Unconfined Aquifier (ham)_FRESH_2024,inf
+sand_0-5cm_mean,inf
+Total Ground Water Availability in the area (ham)Fresh_2023,inf
+Total Ground Water Availability in the area (ham)Fresh_2024,inf
+Total Ground Water Availability in the area (ham)Fresh_2025,inf
+sand_15-30cm_mean,inf
+sand_5-15cm_mean,inf
+sand_30-60cm_mean,inf
+sand_60-100cm_mean,inf
+nitrogen_60-100cm_mean,inf
+cec_5-15cm_mean,inf
+cec_15-30cm_mean,inf
+cec_30-60cm_mean,inf
+cec_60-100cm_mean,inf
+cec_100-200cm_mean,inf
+cfvo_0-5cm_mean,inf
+cfvo_5-15cm_mean,inf
+cfvo_15-30cm_mean,inf
+cfvo_30-60cm_mean,inf
+cfvo_60-100cm_mean,inf
+cfvo_100-200cm_mean,inf
+nitrogen_0-5cm_mean,inf
+clay_100-200cm_mean,inf
+ocd_0-5cm_mean,inf
+ocd_5-15cm_mean,inf
+ocd_15-30cm_mean,inf
+ocd_30-60cm_mean,inf
+ocd_60-100cm_mean,inf
+ocd_100-200cm_mean,inf
+phh2o_0-5cm_mean,inf
+phh2o_5-15cm_mean,inf
+phh2o_15-30cm_mean,inf
+phh2o_30-60cm_mean,inf
+phh2o_60-100cm_mean,inf
+phh2o_100-200cm_mean,inf
+bdod_0-5cm_mean,inf
+bdod_5-15cm_mean,inf
+bdod_15-30cm_mean,inf
+bdod_30-60cm_mean,inf
+bdod_60-100cm_mean,inf
+bdod_100-200cm_mean,inf
+HISTO_20,inf
+nitrogen_100-200cm_mean,inf
+soc_0-5cm_mean,inf
+soc_5-15cm_mean,inf
+soc_15-30cm_mean,inf
+soc_30-60cm_mean,inf
+soc_60-100cm_mean,inf
+soc_100-200cm_mean,inf
+HISTO_80,inf
+HISTO_30,inf
+nitrogen_15-30cm_mean,inf
+nitrogen_30-60cm_mean,inf
+nitrogen_5-15cm_mean,inf
+latitude,9007199254740992.0
+HISTO_40,9007199254740992.0
+HISTO_60,4503599627370496.0
+latitude.1,3002399751580330.5
+HISTO_50,1125899906842624.0
+longitude.1,1000799917193443.5
+HISTO_10,900719925474099.2
+longitude,264917625139440.94
+_count,173215370283480.62
+Value_Sm4,15.550498127923683
+Value_Sm2,14.606192180525447
+Value_Sm1,11.808873896663833
+Value_atm_pre,9.359134608584789
+Value_Temp,6.215853181317188
+date,5.873867536679541
+Value_Sm3,5.323647044025617
+Value_Evp,3.613515636701771
+Value_Rain,1.53144020452512
+Rainfall (mm)_2025,0.0
+Major Parameter Present_QUALITY_2023_2024_2025,
