@@ -15,3 +15,4 @@ df = pd.read_excel(input_file, sheet_name=0)  # Use sheet_name="Sheet1" if neede
 df.to_csv(output_file, index=False)
 
 print(f"✅ Converted and saved as CSV: {output_file}")
+print("✅ Data Loading and Conversion Completed")
